@@ -1,4 +1,4 @@
-# Node.js Community Contributing Guide 1.0
+# Express.js Community Contributing Guide 1.0
 
 The goal of this document is to create a contribution process that:
 
